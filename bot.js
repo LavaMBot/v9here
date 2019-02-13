@@ -1463,4 +1463,4 @@ channel.send({embed : embed});
 
 
 
-client.login("NTQ0MDUyODAxMTQwMDMxNDk5.D0Tr1Q.woHJAKu_0BNNGQUjzIL1VEMIkAc");  
+client.login("NTQ1MzEzOTY1MDk4NTMyODY0.D0X2ug.U-mywBUMMzy3jY9XMQazSp2CBww");  
